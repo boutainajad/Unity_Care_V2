@@ -1,4 +1,5 @@
 <?php
+require_once __DIR__ . '/User.php';
 
 class Doctor extends User
 {

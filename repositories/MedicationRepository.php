@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . '/BaseRepository.php';
+require_once __DIR__ . '/../models/Medication.php';
 
 class MedicationRepository extends BaseRepository
 {
